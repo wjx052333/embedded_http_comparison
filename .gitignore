@@ -1,0 +1,8 @@
+civetweb
+cpp-httplib
+**/build
+libwebsockets
+mbedtls
+venv
+mongoose
+mg_http_client/certs
